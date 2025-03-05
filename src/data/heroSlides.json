@@ -1,0 +1,20 @@
+[
+	{
+		"id": 1,
+		"image": "/assets/images/webp/main-back.webp",
+		"title": "Transformez votre espace avec notre expertise",
+		"subtitle": "Artisan spécialisé en rénovation intérieure et extérieure pour particuliers et professionnels"
+	},
+	{
+		"id": 2,
+		"image": "/assets/images/webp/Rénovations-professionnelles.webp",
+		"title": "Rénovations professionnelles",
+		"subtitle": "Transformez votre espace avec notre expertise"
+	},
+	{
+		"id": 3,
+		"image": "/assets/images/webp/Rénovation-intérieure.webp",
+		"title": "Rénovation intérieure",
+		"subtitle": "Conception innovante pour tous vos besoins en construction"
+	}
+]

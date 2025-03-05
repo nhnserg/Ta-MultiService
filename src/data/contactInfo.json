@@ -1,0 +1,23 @@
+[
+	{
+		"title": "Téléphone",
+		"icon": "phone",
+		"content": "06 28 13 25 76",
+		"link": "tel:+33628132576"
+	},
+	{
+		"title": "Email",
+		"icon": "mail",
+		"content": "tadevosyan050@gmail.com",
+		"link": "mailto:tadevosyan050@gmail.com"
+	},
+	{
+		"title": "Horaires d'ouverture",
+		"icon": "clock",
+		"content": {
+			"weekdays": "9h-18h",
+			"saturday": "10h-14h",
+			"sunday": "Fermé"
+		}
+	}
+]

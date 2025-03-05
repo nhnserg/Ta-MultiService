@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "Rénovation complète",
+    "description": "Rénovation complète de votre logement, de la démolition à la finition. Nous prenons en charge l'ensemble des travaux pour vous livrer un logement clé en main.",
+    "icon": "Home"
+  },
+  {
+    "id": 2,
+    "title": "Peinture et décoration",
+    "description": "Travaux de peinture intérieure et extérieure, pose de papier peint, revêtements muraux et décoration pour donner une nouvelle vie à votre intérieur.",
+    "icon": "Paintbrush"
+  },
+  {
+    "id": 3,
+    "title": "Revêtements de sol",
+    "description": "Pose de tous types de revêtements de sol : parquet, carrelage, moquette, sol vinyle, béton ciré. Nous vous conseillons sur le choix des matériaux.",
+    "icon": "Layers"
+  },
+  {
+    "id": 4,
+    "title": "Plomberie et sanitaires",
+    "description": "Installation et rénovation de plomberie, remplacement de sanitaires, installation de salle de bain complète, dépannage et réparation de fuites.",
+    "icon": "Droplets"
+  },
+  {
+    "id": 5,
+    "title": "Électricité",
+    "description": "Mise aux normes électriques, installation de prises et interrupteurs, éclairage, tableau électrique, domotique et systèmes connectés.",
+    "icon": "Zap"
+  },
+  {
+    "id": 6,
+    "title": "Menuiserie",
+    "description": "Fabrication et pose de menuiseries sur mesure, portes, fenêtres, placards, dressing, cuisine, mobilier intégré et aménagements spécifiques.",
+    "icon": "Hammer"
+  }
+]

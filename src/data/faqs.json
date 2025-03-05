@@ -1,0 +1,42 @@
+[
+	{
+		"id": 1,
+		"question": "Quels types de travaux proposez-vous ?",
+		"answer": "Nous proposons une large gamme de services de rénovation intérieure et extérieure : peinture, revêtements de sol, plomberie, électricité, menuiserie, maçonnerie, isolation, etc. Nous pouvons prendre en charge des projets de rénovation complète ou des travaux spécifiques selon vos besoins."
+	},
+	{
+		"id": 2,
+		"question": "Intervenez-vous dans quelle zone géographique ?",
+		"answer": "Nous intervenons principalement dans la région Bouches du Rhône et ses environs, dans un rayon de 50 km autour de Marseille. Pour des projets plus importants, nous pouvons également nous déplacer dans toute la France."
+	},
+	{
+		"id": 3,
+		"question": "Comment se déroule un projet de rénovation avec vous ?",
+		"answer": "Notre processus se déroule en plusieurs étapes : 1) Prise de contact et définition de vos besoins, 2) Visite technique et évaluation du projet, 3) Établissement d'un devis détaillé, 4) Planification et réalisation des travaux, 5) Suivi et contrôle qualité, 6) Livraison et garantie des travaux."
+	},
+	{
+		"id": 4,
+		"question": "Combien de temps durent généralement les travaux de rénovation ?",
+		"answer": "La durée des travaux dépend de l'ampleur du projet. Une rénovation de salle de bain peut prendre 2 à 3 semaines, tandis qu'une rénovation complète d'appartement peut s'étendre sur 2 à 4 mois. Nous établissons un planning détaillé avant le début des travaux et vous tenons informé de l'avancement."
+	},
+	{
+		"id": 5,
+		"question": "Proposez-vous des garanties sur vos travaux ?",
+		"answer": "Oui, tous nos travaux sont garantis. Nous offrons la garantie décennale pour les travaux structurels et la garantie biennale pour les équipements. De plus, nous assurons un suivi après-travaux pour nous assurer de votre entière satisfaction."
+	},
+	{
+		"id": 6,
+		"question": "Comment sont gérés les déchets et les gravats ?",
+		"answer": "Nous prenons en charge l'évacuation et le traitement des déchets et gravats générés par les travaux. Nous travaillons avec des partenaires spécialisés dans le recyclage et le traitement des déchets de chantier, dans le respect des normes environnementales."
+	},
+	{
+		"id": 7,
+		"question": "Faut-il quitter son logement pendant les travaux ?",
+		"answer": "Cela dépend de l'ampleur des travaux. Pour une rénovation complète, il est généralement préférable de ne pas occuper le logement. Pour des travaux partiels, nous organisons le chantier de manière à minimiser les nuisances et permettre, si possible, de continuer à occuper les lieux."
+	},
+	{
+		"id": 8,
+		"question": "Proposez-vous des conseils en décoration et aménagement ?",
+		"answer": "Oui, nous collaborons avec des architectes d'intérieur et des décorateurs qui peuvent vous accompagner dans vos choix esthétiques et fonctionnels. Ce service peut être inclus dans votre projet de rénovation sur demande."
+	}
+]

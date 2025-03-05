@@ -1,0 +1,31 @@
+{
+	"companyName": "TA MultiServices",
+	"description": "Artisan spécialisé en rénovation intérieure et extérieure pour particuliers et professionnels depuis plus de 8 ans.",
+	"socialLinks": [
+		{ "icon": "Facebook", "url": "#" },
+		{ "icon": "Instagram", "url": "#" },
+		{ "icon": "Linkedin", "url": "#" }
+	],
+	"quickLinks": [
+		{ "label": "Accueil", "href": "#accueil" },
+		{ "label": "Services", "href": "#services" },
+		{ "label": "Projets", "href": "#projets" },
+		{ "label": "FAQ", "href": "#faq" },
+		{ "label": "Contact", "href": "#contact" }
+	],
+	"services": [
+		"Rénovation complète",
+		"Peinture et décoration",
+		"Revêtements de sol",
+		"Plomberie et sanitaires",
+		"Électricité"
+	],
+	"contact": {
+		"phone": "06 28 13 25 76",
+		"email": "tadevosyan050@gmail.com",
+		"workingHours": {
+			"weekdays": "Lun - Ven: 8h00 - 18h00",
+			"saturday": "Sam: 9h00 - 14h00"
+		}
+	}
+}

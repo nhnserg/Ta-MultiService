@@ -1,0 +1,26 @@
+[
+	{
+		"id": 1,
+		"name": "Sophie Martin",
+		"role": "Propriétaire",
+		"content": "Nous avons fait appel à ArtisanRéno pour la rénovation complète de notre appartement parisien. Le résultat est à la hauteur de nos attentes. Professionnalisme, qualité et respect des délais, je recommande vivement !",
+		"rating": 5,
+		"image": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80"
+	},
+	{
+		"id": 2,
+		"name": "Thomas Dubois",
+		"role": "Gérant de restaurant",
+		"content": "Excellente prestation pour la rénovation de notre restaurant. L'équipe a su respecter nos contraintes de temps et nous a proposé des solutions innovantes pour optimiser notre espace. Très satisfait !",
+		"rating": 5,
+		"image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80"
+	},
+	{
+		"id": 3,
+		"name": "Marie Leroy",
+		"role": "Propriétaire",
+		"content": "J'ai fait appel à ArtisanRéno pour la rénovation de ma salle de bain. Le travail a été réalisé avec soin et dans les délais. Je suis très satisfaite du résultat et je n'hésiterai pas à faire appel à eux pour de futurs travaux.",
+		"rating": 4,
+		"image": "https://images.unsplash.com/photo-1580489944761-15a19d654956?ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80"
+	}
+]
