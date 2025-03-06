@@ -46,7 +46,13 @@ const ContactForm = () => {
 							label='Nom complet:'
 							error={errors.name}
 							placeholder='Votre nom'
-							{...register('name', { required: 'Le nom est requis' })}
+							{...register('name', {
+								required: 'Le nom est requis',
+								minLength: {
+									value: 3,
+									message: 'Le nom doit contenir au moins 3 caractères',
+								},
+							})}
 						/>
 						<FormField
 							id='email'
@@ -68,7 +74,13 @@ const ContactForm = () => {
 							label='Téléphone:'
 							error={errors.phone}
 							placeholder='Votre numéro de téléphone'
-							{...register('phone', { required: 'Le téléphone est requis' })}
+							{...register('phone', {
+								required: 'Le téléphone est requis',
+								pattern: {
+									value: /^[0-9]{10}$/,
+									message: 'Numéro de téléphone invalide',
+								},
+							})}
 						/>
 						<div>
 							<label
